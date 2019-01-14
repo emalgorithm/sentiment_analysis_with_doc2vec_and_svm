@@ -1,5 +1,6 @@
 import numpy as np
 
+
 class MultinomialNaiveBayes():
     def __init__(self, classes, num_feat, smoothing_value=0):
         # Number of features the model uses
