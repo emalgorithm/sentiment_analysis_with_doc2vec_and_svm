@@ -9,4 +9,4 @@ made by the model, we show that they are mainly due the lack of a complete seman
 the language. Finally, we investigate the embedding space learned by the Doc2Vec model, showing
 that it captures meaningful but not perfect similarities between words and documents.
 
-The full report can be found at [https://docdro.id/hwSDaBd].
+The full report can be found at https://docdro.id/hwSDaBd.
